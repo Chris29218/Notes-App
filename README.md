@@ -1,1 +1,2 @@
-# Notes-Appt https://chris29218.github.io/Notes-App/
+# Notes-App
+https://chris29218.github.io/Notes-App/
